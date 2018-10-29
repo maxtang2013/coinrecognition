@@ -1,0 +1,11 @@
+image/
+data/
+test_data/
+__pycache__/
+tmp/
+MPL/
+CNN/
+model*/
+multi*/
+test_images/
+twodollar/
